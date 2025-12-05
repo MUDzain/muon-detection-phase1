@@ -42,12 +42,6 @@ A comprehensive muon signal discrimination system for the RIPTIDE detector using
 4. **mean_pixels_on_mirror**: Raw mirror pixel intensity
 5. **mean_pixels_on_bkground**: Background pixel intensity
 
-##  Quick Start
-
-### Prerequisites
-- Python 3.8+
-- Required packages: `pip install -r requirements.txt`
-
 ### Usage
 ```bash
 # Navigate to the project directory
@@ -67,19 +61,15 @@ python PERFECT_FINAL_ANALYSIS.py
 
 ```
 ├── PERFECT_FINAL_ANALYSIS.py     # Main analysis script
-├── FEATURE_EXPLANATION.md        # Detailed explanation of features and temperature correction
-├── requirements.txt              # Python dependencies
 ├── output/                       # Generated plots and results
 │   ├── PERFECT_All_Methods_Comparison.png
 │   ├── PERFECT_True_vs_BestMethod.png
 │   ├── PERFECT_Performance_Comparison.png
 │   └── PERFECT_FINAL_RESULTS.csv
-└── README.md                     # This file
+└── README.md               
 ```
 
 ## Feature Documentation
-
-### FEATURE_EXPLANATION.md
 **Detailed explanation of how `extracted_roi_data.csv` is created and temperature correction works:**
 
 - **CSV Structure**: Explains the 6 raw columns (`filename`, `frame_index`, `temperature`, `mean_pixels_on_scintillator`, `mean_pixels_on_mirror`, `mean_pixels_on_bkground`)
