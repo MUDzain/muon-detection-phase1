@@ -1,8 +1,4 @@
-"""PERFECT FINAL ANALYSIS - Complete and Correct
-Uses ALL 13 CSV files, all methods properly implemented
-
-IMPORTANT: Run this script from the src/noise_vs_singal directory!
-Command: cd src/noise_vs_singal && python PERFECT_FINAL_ANALYSIS.py
+"""Uses ALL 13 CSV files, all methods properly implemented
 """
 
 import os
@@ -33,7 +29,7 @@ print("="*80)
 
 print("\nSTEP 1: Loading ALL data correctly")
 
-# Load ROI data (from all 14 FLI files)
+# Load ROI data (from all 14 FLI files) here this file was made it(extracted_roi_data.csv, go though READ.MD file)
 df = pd.read_csv(r"C:\Users\zainy\Desktop\degree\muons-CsI-w-tube-fr64\extracted_roi_data.csv")
 print(f"Loaded ROI data: {df.shape[0]} frames from 14 FLI files")
 print(f"Columns in extracted_roi_data.csv: {list(df.columns)}")
