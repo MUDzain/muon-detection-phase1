@@ -5,7 +5,6 @@ This script creates visualizations showing which features contribute
 most to muon signal discrimination using Random Forest feature importance.
 
 Author: Muhammad Zain
-Date: 2024
 """
 
 import pandas as pd
