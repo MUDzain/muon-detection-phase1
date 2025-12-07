@@ -1,0 +1,115 @@
+DETECTED MUON FRAMES SUMMARY
+============================================================
+
+Total muon detections: 15
+Successfully extracted: 15
+
+Distribution by file:
+------------------------------------------------------------
+muons-w-tube-fr64(2)_HiCAM FLUO_1200-2-418.fli: 1 muons
+muons-w-tube-fr64(20)_HiCAM FLUO_1200-2-418.fli: 1 muons
+muons-w-tube-fr64(22)_HiCAM FLUO_1200-2-418.fli: 1 muons
+muons-w-tube-fr64(25)_HiCAM FLUO_1200-2-418.fli: 1 muons
+muons-w-tube-fr64(27)_HiCAM FLUO_1200-2-418.fli: 1 muons
+muons-w-tube-fr64(29)_HiCAM FLUO_1200-2-418.fli: 1 muons
+muons-w-tube-fr64(3)_HiCAM FLUO_1200-2-418.fli: 1 muons
+muons-w-tube-fr64(30)_HiCAM FLUO_1200-2-418.fli: 2 muons
+muons-w-tube-fr64(4)_HiCAM FLUO_1200-2-418.fli: 1 muons
+muons-w-tube-fr64(5)_HiCAM FLUO_1200-2-418.fli: 1 muons
+muons-w-tube-fr64(6)_HiCAM FLUO_1200-2-418.fli: 1 muons
+muons-w-tube-fr64(7)_HiCAM FLUO_1200-2-418.fli: 1 muons
+muons-w-tube-fr64(8)_HiCAM FLUO_1200-2-418.fli: 1 muons
+muons-w-tube-fr64(9)_HiCAM FLUO_1200-2-418.fli: 1 muons
+
+Frame details:
+------------------------------------------------------------
+File: muons-w-tube-fr64(2)_HiCAM FLUO_1200-2-418.fli
+  Frame: 135
+  Probability: 0.720
+  Scintillator: 3.266
+  Mirror: 2.543
+
+File: muons-w-tube-fr64(3)_HiCAM FLUO_1200-2-418.fli
+  Frame: 657
+  Probability: 0.970
+  Scintillator: 2.934
+  Mirror: 3.235
+
+File: muons-w-tube-fr64(4)_HiCAM FLUO_1200-2-418.fli
+  Frame: 807
+  Probability: 0.730
+  Scintillator: 3.120
+  Mirror: 2.282
+
+File: muons-w-tube-fr64(5)_HiCAM FLUO_1200-2-418.fli
+  Frame: 83
+  Probability: 0.990
+  Scintillator: 5.192
+  Mirror: 4.821
+
+File: muons-w-tube-fr64(6)_HiCAM FLUO_1200-2-418.fli
+  Frame: 335
+  Probability: 0.990
+  Scintillator: 3.298
+  Mirror: 2.672
+
+File: muons-w-tube-fr64(7)_HiCAM FLUO_1200-2-418.fli
+  Frame: 537
+  Probability: 0.690
+  Scintillator: 2.482
+  Mirror: 1.611
+
+File: muons-w-tube-fr64(8)_HiCAM FLUO_1200-2-418.fli
+  Frame: 871
+  Probability: 0.740
+  Scintillator: 2.524
+  Mirror: 1.964
+
+File: muons-w-tube-fr64(9)_HiCAM FLUO_1200-2-418.fli
+  Frame: 894
+  Probability: 0.790
+  Scintillator: 2.637
+  Mirror: 2.513
+
+File: muons-w-tube-fr64(20)_HiCAM FLUO_1200-2-418.fli
+  Frame: 883
+  Probability: 1.000
+  Scintillator: 3.470
+  Mirror: 2.509
+
+File: muons-w-tube-fr64(22)_HiCAM FLUO_1200-2-418.fli
+  Frame: 320
+  Probability: 0.760
+  Scintillator: 3.131
+  Mirror: 2.581
+
+File: muons-w-tube-fr64(25)_HiCAM FLUO_1200-2-418.fli
+  Frame: 538
+  Probability: 0.780
+  Scintillator: 3.845
+  Mirror: 3.180
+
+File: muons-w-tube-fr64(27)_HiCAM FLUO_1200-2-418.fli
+  Frame: 357
+  Probability: 0.730
+  Scintillator: 3.627
+  Mirror: 3.117
+
+File: muons-w-tube-fr64(29)_HiCAM FLUO_1200-2-418.fli
+  Frame: 355
+  Probability: 1.000
+  Scintillator: 3.217
+  Mirror: 3.015
+
+File: muons-w-tube-fr64(30)_HiCAM FLUO_1200-2-418.fli
+  Frame: 825
+  Probability: 0.990
+  Scintillator: 3.671
+  Mirror: 3.417
+
+File: muons-w-tube-fr64(30)_HiCAM FLUO_1200-2-418.fli
+  Frame: 950
+  Probability: 0.720
+  Scintillator: 3.094
+  Mirror: 2.570
+
